@@ -1,0 +1,21 @@
+
+    #top, #middle, #bottom
+    {
+        text-align: center;
+    }
+
+    #top,#bottom,#middle
+    {
+            margin-top: 30px;
+    }
+
+    .justified
+    {
+    position:absolute;
+    left:35%;
+    }
+
+    .table, #in{
+        margin-top: 70px;
+    }
+
